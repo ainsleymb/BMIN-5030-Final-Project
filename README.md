@@ -1,1 +1,1 @@
-# BIMI-5030-Final-Project
+# BMIN-5030-Final-Project
